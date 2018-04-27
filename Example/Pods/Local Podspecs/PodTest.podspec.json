@@ -1,0 +1,22 @@
+{
+  "name": "PodTest",
+  "version": "0.1.0",
+  "summary": "A short description of PodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/defuliu/PodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "defuliu": "liudefu@china.zhaogang.com"
+  },
+  "source": {
+    "git": "https://github.com/defuliu/PodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTest/Classes/**/*"
+}
